@@ -1,1 +1,3 @@
-console.log("2");
+function name() {
+  console.log("2");
+}
